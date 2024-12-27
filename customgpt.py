@@ -19,7 +19,7 @@ def load_model_and_tokenizer():
 model, tokenizer = load_model_and_tokenizer()
 
 # Streamlit app UI
-st.title("Custom GPT With LLMS MODELS")
+st.title(" Welcome To EDU-BOT. ")
 st.write("Ask a question, and get a concise, accurate answer.")
 
 # Input text
