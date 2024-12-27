@@ -2,3 +2,6 @@ streamlit
 transformers
 peft
 torch
+pandas
+numpy
+requests
