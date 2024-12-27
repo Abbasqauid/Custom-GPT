@@ -22,7 +22,7 @@ def load_model_and_tokenizer(model_choice):
 
 
 # Streamlit app UI
-st.title("Question Answering with Fine-Tuned Models")
+st.title(" Welcome To EDU-BOT. ")
 st.write("Ask a question, and get a concise, accurate answer.")
 
 # Option to select model
